@@ -92,7 +92,7 @@ body {
     font-family: Helvetica;
     color: black;
     margin: 0px;
-    height: 1500px;
+    height: 1000px;
     overflow: auto;
   }
 }
@@ -134,7 +134,7 @@ body {
     font-family: Helvetica;
     color: black;
     margin: 0px;
-    height: 2500px;
+    height: 1000px;
     overflow: auto;
   }
   /* End Header */
